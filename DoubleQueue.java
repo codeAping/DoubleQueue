@@ -1,6 +1,4 @@
-﻿package com.ucjoy.magic.util;
-
-import java.util.AbstractQueue;
+﻿import java.util.AbstractQueue;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.concurrent.BlockingQueue;
